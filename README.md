@@ -7,5 +7,5 @@ Hola, soy **Michael Viloria**, en este repositorio estaré guardando todos los r
  1. [API RestFul.](https://github.com/michaelviloria/ch-bc-api-restful)
  2. [Motores de Plantillas.](https://github.com/michaelviloria/ch-api-plantillas)
  3. [Chat con WebSockets.](https://github.com/michaelviloria/ch-chat-websockets)
- 4. [Proyecto del curso.](https://github.com/michaelviloria/ch-proyecto-backend)
+ 4. [Primera entrega del proyecto del curso.](https://github.com/michaelviloria/ch-proyecto-backend)
  5. **Proximamente más desafios...**
